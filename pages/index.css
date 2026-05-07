@@ -71,7 +71,7 @@
 
 }
 
-.span__accent {
+.header__span-accent {
     color: #2f80ed;
     font-style: italic;
     font-family: "Noto Serif";
@@ -99,7 +99,6 @@
 }
 .header__footer {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     margin-top: auto;
     align-items: flex-end;
@@ -110,10 +109,9 @@
 }
 
 .header__footer-hours {
-    display: flex;
-    flex-direction: column;
     margin-left: 80px;
-    line-height: 0;
+    list-style-type: none;
+    padding-left: 0;
     
 }
 
