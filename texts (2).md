@@ -26,7 +26,7 @@ Sábado a domingo (11:00 - 18:00)
 **Título e descrição**
 
 Receitas
-Confira algumas receitas que coletamos para seu lanchinho caseiro:
+
 
 **texto iframe**
 
