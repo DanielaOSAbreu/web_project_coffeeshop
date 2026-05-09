@@ -98,29 +98,27 @@
 
 }
 .header__footer {
-    display: flex;
-    justify-content: space-between;
-    margin-top: auto;
-    align-items: flex-end;
-    margin-bottom: 40px;
-    font-weight: 500;
-    color: #838383;
-    
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: auto 80px 40px;
+  color: #6F6F6F;
+  font-weight: 500;
 }
 
-.header__footer-hours {
-    margin-left: 80px;
-    list-style-type: none;
-    padding-left: 0;
-    
+.header__footer-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.footer__paragraph-endereço {
-    position: absolute;
-    right: 80px;
-    bottom: 40px;
-    z-index: 1;
-    
+.header__paragraph {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 20px;
+  z-index: 1;
+  
 }
 
 .content {
